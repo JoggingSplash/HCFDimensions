@@ -1,0 +1,9 @@
+---
+name: HCFDimensions
+description: Allows your HCF to get End and Nether! (with generators)
+api: 5.0.0
+version: "1.0"
+main: cisco\dimensions\Loader
+author: cisco
+load: STARTUP
+...
