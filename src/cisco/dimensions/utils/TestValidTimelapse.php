@@ -13,7 +13,6 @@ use pocketmine\world\Position;
  */
 
 final class TestValidTimelapse {
-	protected static array $timestamps = [];
 
     private static Limiter $limiter;
 
